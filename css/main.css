@@ -1,0 +1,9 @@
+div.pot {
+    float: left;
+    padding: 2ex;
+    text-align: center;
+}
+
+p.value {
+    font-size: 250%;
+}
