@@ -1,6 +1,6 @@
 function refresh() {
   $.ajax({
-    url: "http://localhost/moistures.json",
+    url: "http://176.58.118.200/moistures.json",
     cache: false,
     context: document.body
   }).done(function(data) {
